@@ -47,6 +47,7 @@ Color: color17     #4d4d4d        239            grey
 
 Color: cTitle      #4c4c4c        237            black
 Color: cTitleNC    #3c3c3c        236            black
+Color: colorTh     #a29f85        144            white
 
 Term colors: color00 color01 color02 color03 color04 color05 color06 color07
              color08 color09 color10 color11 color12 color13 color14 color15
@@ -99,7 +100,7 @@ PmenuSel           background     color11
 PmenuSbar          none           background
  /16               none           background
  /8                none           color00
-PmenuThumb         none           color15
+PmenuThumb         none           colorTh
  /16               none           color15
  /8                none           color07
 PmenuMatch         none           none           bold

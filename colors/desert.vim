@@ -67,7 +67,7 @@ hi PmenuMatch guifg=NONE guibg=NONE guisp=NONE gui=bold ctermfg=NONE ctermbg=NON
 hi PmenuMatchSel guifg=NONE guibg=#f0e68c guisp=NONE gui=bold ctermfg=NONE ctermbg=186 cterm=bold term=bold
 hi PmenuSbar guifg=NONE guibg=#333333 guisp=NONE gui=NONE ctermfg=NONE ctermbg=236 cterm=NONE term=reverse
 hi PmenuSel guifg=#333333 guibg=#f0e68c guisp=NONE gui=NONE ctermfg=236 ctermbg=186 cterm=NONE term=bold
-hi PmenuThumb guifg=NONE guibg=#c2bfa5 guisp=NONE gui=NONE ctermfg=NONE ctermbg=144 cterm=NONE term=NONE
+hi PmenuThumb guifg=NONE guibg=#a29f85 guisp=NONE gui=NONE ctermfg=NONE ctermbg=144 cterm=NONE term=NONE
 hi PreProc guifg=#cd5c5c guibg=NONE guisp=NONE gui=NONE ctermfg=167 ctermbg=NONE cterm=NONE term=NONE
 hi Question guifg=#89fb98 guibg=NONE guisp=NONE gui=bold ctermfg=120 ctermbg=NONE cterm=bold term=standout
 hi QuickFixLine guifg=#333333 guibg=#f0e68c guisp=NONE gui=NONE ctermfg=236 ctermbg=186 cterm=NONE term=NONE
