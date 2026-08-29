@@ -42,7 +42,7 @@ Color: color14     #ffa0a0        217            cyan
 Color: color07     #666666        241            grey
 Color: color15     #c2bfa5        144            white
 
-Color: color16     #6b8e24        64             darkgreen
+Color: color16     #3f5f1f        64             darkgreen
 Color: color17     #4d4d4d        239            grey
 
 Color: cTitle      #4c4c4c        237            black
